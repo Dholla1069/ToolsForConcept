@@ -1,0 +1,16 @@
+body {
+    font-family: 'Palatino', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#output-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
