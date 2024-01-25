@@ -28,6 +28,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+h2 {
+    margin-bottom: 20px; /* Add margin to the bottom of the h2 element */
+}
 /* #output-container {
     margin-top: 20px;
     margin-bottom: 20px;
