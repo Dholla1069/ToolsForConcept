@@ -1,7 +1,7 @@
 const categories = {
-    category1: ['space', 'wild west', 'robot', 'martial arts', 'punk', 'prehistoric', 'futuristic', 'jungle', 'animal', 'undead', 'circus', 'plant'],
-    category2: ['bow', 'bottle', 'rocket-launcher', 'boomerang', 'grenade', 'shot gun', 'pistol', 'rifle', 'hammer', 'bat'],
-    category3: ['arrows', 'lasers', 'grenades', 'fire', 'poison', 'cacti', 'sticky-blob', 'snow', 'blades', 'electricity', 'smoke']
+    category1: ['space', 'wild west', 'robot', 'martial arts', 'punk', 'prehistoric', 'futuristic', 'jungle', 'animal', 'undead', 'circus', 'plant', 'beach', 'music', 'magic'],
+    category2: ['bow', 'bottle', 'rocket-launcher', 'boomerang', 'grenade', 'shot gun', 'pistol', 'rifle', 'hammer', 'bat', 'hands'],
+    category3: ['arrows', 'lasers', 'grenades', 'fire', 'poison', 'cacti', 'sticky-blob', 'snow', 'blades', 'electricity', 'smoke', 'nails', 'asteroids', 'stars']
 };
 
 function getRandomElement(array) {

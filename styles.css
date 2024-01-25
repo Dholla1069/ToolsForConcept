@@ -1,10 +1,34 @@
 body {
-    font-family: 'Palatino', sans-serif;
+    font-family: 'Impact', sans-serif;
     text-align: center;
-    margin: 50px;
+    /* margin: 50px; */
+    background-color: rgb(75, 174, 216);
+    margin: 0;
+    padding: 0;
 }
 
-#output-container {
+header {
+    background-color: rgb(75, 174, 216);
+    color: rgb(19, 78, 60);
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    padding: 2em;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(75, 174, 216);
+    color: rgb(19, 78, 60);
+    padding: 1em;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+/* #output-container {
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -13,4 +37,4 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-}
+} */
