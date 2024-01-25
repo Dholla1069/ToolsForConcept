@@ -29,7 +29,12 @@ footer {
     width: 100%;
 }
 h2 {
-    margin-bottom: 20px; /* Add margin to the bottom of the h2 element */
+    margin-bottom: 20px; 
+}
+
+button {
+    display: block; 
+    margin-top: 10px; 
 }
 /* #output-container {
     margin-top: 20px;
