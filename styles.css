@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: rgb(75, 174, 216);
     color: rgb(19, 78, 60);
     padding: 1em;
     text-align: center;
@@ -20,7 +20,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: rgb(75, 174, 216);
     color: rgb(19, 78, 60);
     padding: 1em;
     text-align: center;
