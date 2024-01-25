@@ -10,7 +10,7 @@ function getRandomElement(array) {
 }
 
 function generatePhrase() {
-    const outputElement = document.getElementById('output');
+    const phraseContainer = document.getElementById("phrase-container");
     
     const randomWord = getRandomElement(categories.category1);
     const randomPhrase = getRandomElement(categories.category2);
@@ -18,5 +18,5 @@ function generatePhrase() {
 
     const generatedPhrase = `This new brawler has a ${randomWord} theme, they prefer a ${randomPhrase} weapon and their choice of projectile is ${randomSentence}.`;
 
-    outputElement.textContent = generatedPhrase;
+    phraseContainer.innerHTML = generatedPhrase;
 }
